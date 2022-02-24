@@ -68,7 +68,7 @@ export const networkCollections = {
   "0x89": [
     {
       image:
-      "https://gateway.pinata.cloud/ipfs/QmRzuvTQdMP8y83z3TPdvKEVi58KcB32EZcuPxJ7wvUTSy",
+      "https://gateway.pinata.cloud/ipfs/QmPnjboBctzsNp6DnXZeTGd2rK4ijd7EnHrrE7qYP7oSnp",
       name: "Cool Check",
       addrs: "0xC71bfaE8C87a0e0E6188e93B1bE2Fe35A4E629A7",
     },
