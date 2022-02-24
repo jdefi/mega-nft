@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/61802591-25ae-4f8b-85e5-5cf1b20f44c7/deploy-status)](https://app.netlify.com/sites/cocky-cray-06672d/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da82d593-d86c-4853-95f0-ab0976151bc3/deploy-status)](https://app.netlify.com/sites/trusting-mayer-176c51/deploys)
 
 # `ethereum-boilerplate-NFT-Marketplace`
 
@@ -18,9 +18,9 @@ git clone https://github.com/ethereum-boilerplate/ethereum-nft-marketplace-boile
 💿 Install all dependencies:
 ```sh
 cd ethereum-nft-marketplace-boilerplate
-yarn install 
+yarn install
 ```
-✏ Rename `.env.example` to `.env` in the main folder and provide your `appId` and `serverUrl` from Moralis ([How to start Moralis Server](https://docs.moralis.io/moralis-server/getting-started/create-a-moralis-server)) 
+✏ Rename `.env.example` to `.env` in the main folder and provide your `appId` and `serverUrl` from Moralis ([How to start Moralis Server](https://docs.moralis.io/moralis-server/getting-started/create-a-moralis-server))
 Example:
 ```jsx
 REACT_APP_MORALIS_APPLICATION_ID = xxxxxxxxxxxx
@@ -51,5 +51,3 @@ event MarketItemCreated (
 ```sh
 yarn start
 ```
-
-

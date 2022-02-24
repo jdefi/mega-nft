@@ -68,6 +68,12 @@ export const networkCollections = {
   "0x89": [
     {
       image:
+      "https://gateway.pinata.cloud/ipfs/QmRzuvTQdMP8y83z3TPdvKEVi58KcB32EZcuPxJ7wvUTSy",
+      name: "Cool Check",
+      addrs: "0xC71bfaE8C87a0e0E6188e93B1bE2Fe35A4E629A7",
+    }
+    {
+      image:
         "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s130",
       name: "Bored Ape Yacht Club",
       addrs: "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
